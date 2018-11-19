@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Common {
-    public static final String APP_ID = "1c92a6aaf7a3e637f973c9d358e2aee7";
+    public static final String APP_ID = "";
     public static Location CURRENT_LOCATION = null;
     public static String DAY_TIME = "14";
     public static String NIGHT_TIME = "02";
