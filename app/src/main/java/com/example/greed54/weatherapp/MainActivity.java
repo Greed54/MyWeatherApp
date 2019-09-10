@@ -41,6 +41,7 @@ import com.karumi.dexter.listener.multi.MultiplePermissionsListener;
 import java.util.ArrayList;
 import java.util.List;
 
+//feature 1 comment
 public class MainActivity extends AppCompatActivity {
 
     private final static int PLACE_AUTOCOMPLETE_REQUEST_CODE = 1;
